@@ -209,7 +209,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hUQGg00ckLTZh4F_ak5_" name="NGỮ CẢNH">
-    <mxGraphModel dx="1794" dy="983" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1345,7 +1345,7 @@
         <mxCell id="cf-dw77XtMyywIkw3vvo-19" value="Có" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1615" y="-226" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cf-dw77XtMyywIkw3vvo-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cf-dw77XtMyywIkw3vvo-19">
+        <mxCell id="cf-dw77XtMyywIkw3vvo-20" value="" style="endArrow=ERmany;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endFill=0;" edge="1" parent="1" source="cf-dw77XtMyywIkw3vvo-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1695" y="-180" as="sourcePoint" />
             <mxPoint x="1840" y="-120" as="targetPoint" />
