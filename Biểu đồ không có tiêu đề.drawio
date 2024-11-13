@@ -1890,7 +1890,7 @@
         <mxCell id="BVJoUUDzJpA0fzCmGF_G-6" value="Thư Viện" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="652" y="-175" width="139" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="BVJoUUDzJpA0fzCmGF_G-7" value="Độc Giả" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="BVJoUUDzJpA0fzCmGF_G-7" value="&lt;b&gt;Độc Giả&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="-153" y="350" width="181" height="44" as="geometry" />
         </mxCell>
         <mxCell id="BVJoUUDzJpA0fzCmGF_G-8" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Hoá Đơn&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
