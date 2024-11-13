@@ -1424,7 +1424,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="i0pBFv2zws9BURXs7ors" name="Trang-5">
-    <mxGraphModel dx="1763" dy="1664" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2520" dy="2544" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1675,10 +1675,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VxoxDEJ-K-_-RULF_sN8-1" value="Thể Loại" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="-524" width="120" height="60" as="geometry" />
+          <mxGeometry x="1169" y="-524" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxoxDEJ-K-_-RULF_sN8-2" value="TenTheLoai" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="-718" width="110" height="76" as="geometry" />
+          <mxGeometry x="1183" y="-721" width="110" height="76" as="geometry" />
         </mxCell>
         <mxCell id="VxoxDEJ-K-_-RULF_sN8-3" value="MaTheLoai" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1031" y="-645" width="110" height="74" as="geometry" />
@@ -1692,9 +1692,9 @@
             <mxPoint x="1280" y="-564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VxoxDEJ-K-_-RULF_sN8-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.417;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;entryX=0.446;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VxoxDEJ-K-_-RULF_sN8-1" target="VxoxDEJ-K-_-RULF_sN8-2">
+        <mxCell id="VxoxDEJ-K-_-RULF_sN8-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;entryX=0.446;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VxoxDEJ-K-_-RULF_sN8-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1220" y="-554" as="sourcePoint" />
+            <mxPoint x="1229" y="-524" as="sourcePoint" />
             <mxPoint x="1270" y="-604" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1705,33 +1705,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YgBnOmTP4bMsENRZETd2-1" value="Vị Trí" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1676" y="-419" width="120" height="60" as="geometry" />
+          <mxGeometry x="1814" y="-592" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YgBnOmTP4bMsENRZETd2-2" value="TenKe" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1688" y="-571" width="106" height="71" as="geometry" />
+          <mxGeometry x="1826" y="-744" width="106" height="71" as="geometry" />
         </mxCell>
         <mxCell id="YgBnOmTP4bMsENRZETd2-3" value="MaViTri" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1509" y="-535" width="110" height="66" as="geometry" />
+          <mxGeometry x="1647" y="-708" width="110" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YgBnOmTP4bMsENRZETd2-4" value="SoNgan" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1882" y="-528" width="110" height="64" as="geometry" />
+          <mxGeometry x="2020" y="-701" width="110" height="64" as="geometry" />
         </mxCell>
         <mxCell id="YgBnOmTP4bMsENRZETd2-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.551;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" target="YgBnOmTP4bMsENRZETd2-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1740" y="-419" as="sourcePoint" />
-            <mxPoint x="1730" y="-489" as="targetPoint" />
+            <mxPoint x="1878" y="-592" as="sourcePoint" />
+            <mxPoint x="1868" y="-662" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YgBnOmTP4bMsENRZETd2-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="YgBnOmTP4bMsENRZETd2-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1740" y="-419" as="sourcePoint" />
-            <mxPoint x="1860" y="-494" as="targetPoint" />
+            <mxPoint x="1878" y="-592" as="sourcePoint" />
+            <mxPoint x="1998" y="-667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YgBnOmTP4bMsENRZETd2-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;entryX=0.057;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YgBnOmTP4bMsENRZETd2-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1740" y="-419" as="sourcePoint" />
-            <mxPoint x="1920" y="-439" as="targetPoint" />
+            <mxPoint x="1878" y="-592" as="sourcePoint" />
+            <mxPoint x="2058" y="-612" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fc3vJrWstFlmtqTDWEAa-1" value="Hoá Đơn Nhập Kho" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
@@ -1877,6 +1877,30 @@
         </mxCell>
         <mxCell id="BVJoUUDzJpA0fzCmGF_G-2" value="Hoá Đơn Nhập Kho" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="379" y="-612" width="222" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="BVJoUUDzJpA0fzCmGF_G-3" value="Thể Loại" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="917" y="-769" width="163" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="BVJoUUDzJpA0fzCmGF_G-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Vị Trí&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1557.5" y="-815" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVJoUUDzJpA0fzCmGF_G-5" value="Nhân Viên" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-422" width="221" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="BVJoUUDzJpA0fzCmGF_G-6" value="Thư Viện" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="652" y="-175" width="139" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="BVJoUUDzJpA0fzCmGF_G-7" value="Độc Giả" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-153" y="350" width="181" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="BVJoUUDzJpA0fzCmGF_G-8" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Hoá Đơn&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="767" y="284" width="161" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="BVJoUUDzJpA0fzCmGF_G-9" value="Phiếu Mượn" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="313" width="171" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="BVJoUUDzJpA0fzCmGF_G-10" value="Sách" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="2025.5" y="43" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
